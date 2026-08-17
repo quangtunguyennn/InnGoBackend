@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\repositories\\paymentrepository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\repositories\\paymentrepository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\repositories\\paymentrepository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\repositories\\paymentrepository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\dtos\\blogdtos\\getblogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\dtos\\blogdtos\\getblogresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\repositories\\blogrepository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\repositories\\blogrepository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\dtos\\blogdtos\\createnewblogrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\dtos\\blogdtos\\createnewblogrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\repositories\\blogrepository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\repositories\\blogrepository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|c:\\users\\admin\\source\\repos\\mobile course\\lab2\\inngobackend\\inngobackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3B9CB8-B9A8-4865-9D94-50CFA95D43A1}|InnGoBackend\\InnGoBackend.csproj|solutionrelative:inngobackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Repositories\\PaymentRepository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\Repositories\\PaymentRepository\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Repositories\\PaymentRepository\\IPaymentRepository.cs",
+              "RelativeToolTip": "InnGoBackend\\Repositories\\PaymentRepository\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:30:13.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Repositories\\PaymentRepository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\Repositories\\PaymentRepository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Repositories\\PaymentRepository\\PaymentRepository.cs",
+              "RelativeToolTip": "InnGoBackend\\Repositories\\PaymentRepository\\PaymentRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:30:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "InnGoBackend\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:22:34.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InnGoBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T16:22:34.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "InnGoBackend\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T16:21:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getBlogResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\DTOs\\BlogDTOs\\getBlogResponseDTO.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\DTOs\\BlogDTOs\\getBlogResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\DTOs\\BlogDTOs\\getBlogResponseDTO.cs",
+              "RelativeToolTip": "InnGoBackend\\DTOs\\BlogDTOs\\getBlogResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T16:18:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateNewBlogRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\DTOs\\BlogDTOs\\CreateNewBlogRequestDTO.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\DTOs\\BlogDTOs\\CreateNewBlogRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\DTOs\\BlogDTOs\\CreateNewBlogRequestDTO.cs",
+              "RelativeToolTip": "InnGoBackend\\DTOs\\BlogDTOs\\CreateNewBlogRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T16:15:47.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Repositories\\BlogRepository\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\Repositories\\BlogRepository\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Repositories\\BlogRepository\\BlogRepository.cs",
+              "RelativeToolTip": "InnGoBackend\\Repositories\\BlogRepository\\BlogRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T16:15:04.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Repositories\\BlogRepository\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "InnGoBackend\\Repositories\\BlogRepository\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mobile course\\Lab2\\InnGoBackend\\InnGoBackend\\Repositories\\BlogRepository\\IBlogRepository.cs",
+              "RelativeToolTip": "InnGoBackend\\Repositories\\BlogRepository\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T16:15:04.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
